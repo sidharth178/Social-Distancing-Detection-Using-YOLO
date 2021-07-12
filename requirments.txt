@@ -1,0 +1,9 @@
+sklearn
+matplotlib
+pandas
+numpy
+scipy
+requests
+-U scikit-learn
+opencv-python
+os-sys
